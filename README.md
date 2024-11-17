@@ -3,7 +3,8 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Aqui é o fatBoy!
+Teremos o objeitivo de tentar criar um e-book, um podcast, um vídeo usando ferramentas de IA generativa. Será que eu consigo? Let's Go! 
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
