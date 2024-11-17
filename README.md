@@ -1,5 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+# Natural ou Fake Natty? That is the question!
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
@@ -20,10 +19,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? That is the question!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projetinho usando ferramentas de IA Generativa. 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
